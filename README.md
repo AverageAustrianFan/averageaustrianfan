@@ -15,3 +15,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=averageaustrianfan&layout=compact&theme=dark" alt="Top Languages" />
 </p>
+
