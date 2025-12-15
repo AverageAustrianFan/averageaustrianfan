@@ -13,7 +13,7 @@
   I create whatever I want using <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="28" /> and <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="28" /> most of the time.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=averageaustrianfan&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AverageAustrianFan&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 
