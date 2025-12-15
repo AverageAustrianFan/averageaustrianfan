@@ -8,5 +8,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AverageAustrianFan&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=averageaustrianfan&layout=compact&theme=dark&hide_border=true" />
 </p>
