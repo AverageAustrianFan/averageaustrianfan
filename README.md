@@ -9,20 +9,12 @@
 </p>
 
 <p align="center">
-  20 year old software developer from Manchester, United Kingdom. I create whatever I want using <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="28" /> and <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="28" /> most of the time.
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=averageaustrianfan&theme=react-dark&area=true" />
-</p>
-
-</p>
+  20 year old software developer from Manchester, United Kingdom.
+  I create whatever I want using <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="28" /> and <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="28" /> most of the time.
 
 <p align="center">
   <img src="https://ghchart.rshah.org/averageaustrianfan" alt="GitHub Contribution Calendar" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=averageaustrianfan&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
 
 
