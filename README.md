@@ -14,5 +14,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AverageAustrianFan&theme=radical" alt="GitHub Streak" />
+  <img src="https://ghchart.rshah.org/averageaustrianfan" alt="GitHub Contribution Calendar" />
 </p>
