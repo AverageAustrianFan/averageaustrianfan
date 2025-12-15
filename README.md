@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  20 year old software developer from Manchester, United Kingdom.
+  20 year old software developer from Manchester, United Kingdom. I create whatever I want using <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" /> and <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" /> most of the time.
 </p>
