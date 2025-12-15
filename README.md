@@ -13,6 +13,6 @@
 
 </p>
 
-<p alight="center">
-   ![GitHub Contribution Calendar](https://ghchart.rshah.org/AverageAustrianFan)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AverageAustrianFan&theme=radical" alt="GitHub Streak" />
 </p>
