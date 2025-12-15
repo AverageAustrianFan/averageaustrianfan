@@ -16,3 +16,7 @@
 <p align="center">
   <img src="https://ghchart.rshah.org/averageaustrianfan" alt="GitHub Contribution Calendar" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=averageaustrianfan&theme=radical" alt="GitHub Streak" />
+</p>
