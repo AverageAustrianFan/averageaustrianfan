@@ -18,5 +18,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=averageaustrianfan&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=averageaustrianfan&theme=dark" alt="GitHub Streak" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?averageaustrianfan&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
+
