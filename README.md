@@ -1,6 +1,6 @@
 <br />
 
-<h1 align="center">Hello there 👋</h1>
+<h1 align="center">What's up?</h1>
 
 <br />
 
@@ -13,6 +13,6 @@
 
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=averageaustrianfan&layout=compact&theme=dark&hide_border=true" />
+<p alight="center">
+   ![GitHub Contribution Calendar](https://ghchart.rshah.org/AverageAustrianFan)
 </p>
