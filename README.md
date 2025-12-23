@@ -5,7 +5,7 @@
 <br />
 
 <p align="center">
-  <img src="https://giphy.com/gifs/fifa-smile-yes-awesome-h5onnP2mbRmQeMH1Jq" width="400"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyZXBhb2xjaTRsaGtxZXBjdnVhYXFvZHg1eGJnaW94dzgwNTJiNjhjdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h5onnP2mbRmQeMH1Jq/giphy.gif" width="400"/>
 </p>
 
 <p align="center">
